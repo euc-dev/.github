@@ -23,8 +23,6 @@ Implementation, strategy and architecture].
 
 [TODO: Additional paragraph describing your project (optional)]
 
-[TODO: PROJECTNAME] is hosted by the [Cloud Native Computing Foundation (CNCF)](https://cncf.io).
-
 ## Getting Started
 
 <!-- Include enough details to get started using, or at least building, the
@@ -37,13 +35,11 @@ include:
 --> 
 
 ## Contributing
-<!-- Template: https://github.com/cncf/project-template/blob/main/CONTRIBUTING.md -->
+<!-- Template: https://github.com/euc-dev/.github/blob/main/CONTRIBUTING.md -->
 
-Our project welcomes contributions from any member of our community. To get
-started contributing, please see our [Contributor Guide](TODO: Link to
-CONTRIBUTING.md).
+Our project welcome contributions from any member of our community. To get started contributing, please see our [Contributor Guide](./CONTRIBUTING.md).
 
-Also please familiarize yourself with the [Code of Conduct](./CODE_OF_CONDUCT.md) and [Developer Certificate of Origin](./Developer%20Certificate%20of%20Origin.md) before contributing. All contributions to this repository must be signed as described on that page. Your signature certifies that you wrote the patch or have the right to pass it on as an open-source patch.
+Also please familiarize yourself with the [Code of Conduct](./CODE_OF_CONDUCT.md) and [Developer Certificate of Origin](./Developer%20Certificate%20of%20Origin.md) before contributing. All contributions to this repository ***must*** be signed off, as described within the Developer Certificate of Origin. Your signature certifies that you wrote the patch or have the right to pass it on as an open-source patch.
 
 ## Scope
 <!-- If this section is too long, you might consider moving it to a SCOPE.md -->
@@ -99,5 +95,5 @@ This project is licensed under [TODO: Add name of license and link to your LICEN
 
 ## Conduct
 
-<!-- Template: https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md -->
-We follow the CNCF Code of Conduct [TODO: Insert link to your CODE_OF_CONDUCT.md file].
+<!-- Template: https://github.com/euc-dev/.github/blob/main/CODE_OF_CONDUCT.md -->
+We follow the Omnissa Code of Conduct and request all contributors review our [Code of Conduct](./CODE_OF_CONDUCT.md) document.
